@@ -1,0 +1,4 @@
+- 👋 Hello, I’m @hpixsel
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning JavaScript and React
+- 📫 How to reach me: Send me a mail on hpixsel@o2.pl
