@@ -19,4 +19,4 @@ Some time later I learned HTML and CSS and stayed in web development for the tim
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=hpixsel&&show_icons=true&title_color=ffffff&icon_color=bbdf43&text_color=daf7dc&bg_color=111111">
 
-📨 How to reach me: Send me a mail on hpixsel@o2.pl
+📨 How to reach me: Send me a mail on adamusdev@gmail.com
